@@ -1,7 +1,9 @@
+import { useEffect } from "react"
+
 export default function Home() {
-  const message: string = "Hello world"
+
   
   return (
-    <div>{message}</div>
+    <div>Hello World</div>
   )
 }
